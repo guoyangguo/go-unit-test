@@ -1,4 +1,4 @@
-package base
+package slc
 
 // Remove
 func RemoveItem(slc []string, item string) []string {
